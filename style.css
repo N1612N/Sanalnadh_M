@@ -62,6 +62,11 @@ a:hover {
   font-size: 2rem;
 }
 
+.logo img{
+  width: 5rem;
+  height: 4rem;
+}
+
 .logo:hover {
   cursor: default;
 }
@@ -428,6 +433,10 @@ article .icon {
 
 .email-icon {
   height: 2.5rem;
+}
+
+.contact_logo{
+  align-self: center;
 }
 
 /* FOOTER SECTION */
