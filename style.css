@@ -437,6 +437,17 @@ article .icon {
 
 .contact_logo{
   align-self: center;
+  width: 50%;
+  height: auto;
+  margin-top: 0px;
+  margin-bottom: 45px;
+}
+
+.contact_logo img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .contact_text{
