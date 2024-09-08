@@ -439,6 +439,10 @@ article .icon {
   align-self: center;
 }
 
+.contact_text{
+  text-align: center;
+}
+
 /* FOOTER SECTION */
 
 footer {
